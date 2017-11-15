@@ -1,0 +1,10 @@
+{
+  "name": "rxjs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Takamichi-tsutsumi <takamichi_tsutsumi@waku-2.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.5.2"
+  }
+}
